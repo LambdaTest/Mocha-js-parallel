@@ -7,11 +7,11 @@
 
 ## Getting Started
 
-TestMu AI (Formerly LambdaTest) is an AI-native, agentic quality engineering platform that lets you run automated tests at scale across thousands of real browsers, devices, and operating systems.
+TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) is an AI-native, agentic quality engineering platform that lets you run automated tests at scale across thousands of real browsers, devices, and operating systems.
 
-If you want to run parallel automation tests in Mocha-js on TestMu AI (Formerly LambdaTest), you can use the following steps. You can refer to the sample test repo [here](https://github.com/LambdaTest/Mocha-selenium-sample).
+If you want to run parallel automation tests in Mocha-js on TestMu AI (Formerly TestMu AI (Formerly LambdaTest)), you can use the following steps. You can refer to the sample test repo [here](https://github.com/LambdaTest/Mocha-selenium-sample).
 
-- [Sign up on TestMu AI](https://www.testmuai.com/register/) (Formerly LambdaTest).
+- [Sign up on TestMu AI](https://www.testmuai.com/register/) (Formerly TestMu AI (Formerly LambdaTest)).
 - Follow the [TestMu AI Documentation](https://www.testmuai.com/support/docs/) for the full setup walkthrough.
 
 # Steps:
@@ -25,17 +25,17 @@ To run parallel tests using  **Mocha**, we would have to execute the below comma
 ```bash
 npm run parallel
 ```
-Your test results would be displayed on the test console (or command-line interface if you are using terminal/cmd) and on the TestMu AI (Formerly LambdaTest) automation dashboard.
+Your test results would be displayed on the test console (or command-line interface if you are using terminal/cmd) and on the TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) automation dashboard.
 
-## TestMu AI (Formerly LambdaTest) Community
+## TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) Community
 
 Connect with testers and developers in the [TestMu AI Community](https://community.testmuai.com/). Ask questions, share what you are building, and discuss best practices in test automation and DevOps.
 
-## TestMu AI (Formerly LambdaTest) Certifications
+## TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) Certifications
 
 Earn free [TestMu AI Certifications](https://www.testmuai.com/certifications/) for testers, developers, and QA engineers. Validate your skills in Selenium, Cypress, Playwright, Appium, Espresso and more. Industry-recognized, shareable on LinkedIn, and built by practitioners, not marketers.
 
-## Learning Resources by TestMu AI (Formerly LambdaTest)
+## Learning Resources by TestMu AI (Formerly TestMu AI (Formerly LambdaTest))
 
 Learn modern testing through tutorials, guides, videos, and weekly updates:
 
